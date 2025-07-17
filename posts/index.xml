@@ -1,6 +1,196 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on My New Hugo Site</title><link>https://nifengxiao12.github.io/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo -- 0.148.0</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 16:54:19 +0800</lastBuildDate><atom:link href="https://nifengxiao12.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>我的第一篇文章</title><link>https://nifengxiao12.github.io/posts/first-article/</link><pubDate>Fri, 11 Jul 2025 16:54:19 +0800</pubDate><guid>https://nifengxiao12.github.io/posts/first-article/</guid><description>&lt;h4 id="写于深圳免税商务大厦39层实习第五天">写于深圳免税商务大厦39层，实习第五天&lt;/h4>
-&lt;h5 id="预期调整">预期调整&lt;/h5>
-&lt;p>就业是很苦的。这个暑假理论上你会很累。我希望你理解和懂得。
-另一件事情，不要太敬业，这些东西算不出来也没有问题哦！&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on My New Hugo Site</title><link>https://nifengxiao12.github.io/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo -- 0.148.0</generator><language>en-us</language><lastBuildDate>Wed, 16 Jul 2025 09:54:01 +0800</lastBuildDate><atom:link href="https://nifengxiao12.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Yaoqian</title><link>https://nifengxiao12.github.io/posts/yaoqian/</link><pubDate>Wed, 16 Jul 2025 09:54:01 +0800</pubDate><guid>https://nifengxiao12.github.io/posts/yaoqian/</guid><description>&lt;h3 id="姚前事件数字人民币研发者涉加密货币腐败案markdown版整理">姚前事件：数字人民币研发者涉加密货币腐败案（Markdown版整理）&lt;/h3>
 &lt;blockquote>
-&lt;p>注：这只是一般测试&lt;/p>&lt;/blockquote></description></item><item><title>Hello World</title><link>https://nifengxiao12.github.io/posts/hello-world/</link><pubDate>Fri, 11 Jul 2025 11:35:29 +0800</pubDate><guid>https://nifengxiao12.github.io/posts/hello-world/</guid><description/></item></channel></rss>
+&lt;p>截至 2025 年 7 月，中国金融科技领域前高官 &lt;strong>姚前&lt;/strong> 因涉嫌严重违纪违法被“双开”，案件涉及“虚拟货币行贿受贿”，是中国首次在官方反腐通报中提及 &lt;strong>加密货币权钱交易&lt;/strong>。&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h4 id="1-姚前简介与履历">1. 姚前简介与履历&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>姓名&lt;/strong>：姚前&lt;/li>
+&lt;li>&lt;strong>学历背景&lt;/strong>：南京大学 信息管理与计算机 博士&lt;/li>
+&lt;li>&lt;strong>关键职位&lt;/strong>：
+&lt;ul>
+&lt;li>2017 年起担任中国人民银行数字货币研究所首任所长&lt;/li>
+&lt;li>2019 年后调任证监会，历任科技监管局局长、信息中心主任等&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img alt="alt text" loading="lazy" src="https://nifengxiao12.github.io/posts/yaoqian/yaoqian.png">&lt;/p>
+&lt;blockquote>
+&lt;p>被称为中国法定数字货币（e-CNY）研发的“总设计师”&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h4 id="2-调查与处分时间线">2. 调查与处分时间线&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>日期&lt;/th>
+&lt;th>节点&lt;/th>
+&lt;th>机构&lt;/th>
+&lt;th>描述摘要&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2024-04-26&lt;/td>
+&lt;td>立案审查&lt;/td>
+&lt;td>中央纪委驻证监会纪检组、广东省纪委&lt;/td>
+&lt;td>涉嫌严重违纪违法&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2024-11-20&lt;/td>
+&lt;td>“双开”通报&lt;/td>
+&lt;td>中央纪委国家监委&lt;/td>
+&lt;td>收受巨额财物，利用虚拟货币进行权钱交易&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2024-11-21&lt;/td>
+&lt;td>媒体曝光&lt;/td>
+&lt;td>SCMP, Global Times 等&lt;/td>
+&lt;td>被称为中国首例“虚拟货币腐败案”&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>（未公开）&lt;/td>
+&lt;td>司法移送&lt;/td>
+&lt;td>汕尾市监察机关&lt;/td>
+&lt;td>涉及受贿、洗钱等指控&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h4 id="3-加密货币涉案细节">3. 加密货币涉案细节&lt;/h4>
+&lt;ul>
+&lt;li>官方明确表述：“&lt;strong>利用虚拟货币进行权钱交易&lt;/strong>”&lt;/li>
+&lt;li>媒体引述称：&lt;strong>“受贿主要通过比特币收取”&lt;/strong>&lt;/li>
+&lt;li>利用加密货币 &lt;strong>去中心化、难追踪&lt;/strong> 特性转移资产&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>注意&lt;/strong>：官方通报中并未明确币种为“比特币”，媒体报道多为引述消息人士&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h4 id="4-数字人民币项目受影响情况">4. 数字人民币项目受影响情况&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>项目未中断&lt;/strong>：现任所长穆长春领导团队，e-CNY 持续扩展试点城市&lt;/li>
+&lt;li>&lt;strong>政策加强&lt;/strong>：央行与证监会加码“技术岗位反腐”与“虚拟资产监管”&lt;/li>
+&lt;li>&lt;strong>合规信号&lt;/strong>：
+&lt;ul>
+&lt;li>国家支持“&lt;strong>可控匿名、可监管&lt;/strong>”的法定数字货币&lt;/li>
+&lt;li>打压“去中心化、匿名逃避监管”的加密资产（如 BTC/ETH）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="5-流言与事实澄清表">5. 流言与事实澄清表&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>传言内容&lt;/th>
+&lt;th>真实情况&lt;/th>
+&lt;th>来源说明&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>数字人民币“总负责人”被抓&lt;/td>
+&lt;td>姚前早在 2018 年离开央行，非现负责人&lt;/td>
+&lt;td>人民银行官网、通报内容&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>“涉嫌比特币洗钱 40 亿”&lt;/td>
+&lt;td>官方未公布具体金额和币种&lt;/td>
+&lt;td>通报中仅表述“金额特别巨大”&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>所有受贿款均为加密币&lt;/td>
+&lt;td>未被证实，可能为部分贿款以 BTC 支付&lt;/td>
+&lt;td>媒体推测与报道，不具权威性&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h4 id="6-事件意义分析">6. 事件意义分析&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>首次写入纪委通报的“虚拟货币腐败”案例&lt;/strong>&lt;/li>
+&lt;li>暴露监管科技岗位“旋转门”问题与贪腐风险&lt;/li>
+&lt;li>为数字金融、区块链行业合规划出红线&lt;/li>
+&lt;li>强化金融科技人事与资金流的多维审计&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="参考资料与延伸阅读">参考资料与延伸阅读&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://www.ccdi.gov.cn">中央纪委国家监委官网 - 姚前被“双开”通报&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.people.com.cn">人民日报：姚前案反映的技术监管腐败新动向&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.southcn.com">南方都市报：姚前涉案细节曝光，虚拟币行贿受贿&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.scmp.com">SCMP: China official who helped develop digital yuan sacked for crypto bribery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.chainnews.com">链闻：姚前受贿细节首次曝光，警惕加密腐败穿透监管&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pbc.gov.cn">穆长春：数字人民币“可控匿名”与监管透明性演讲稿&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr></description></item><item><title>山林不能给野火，江海不能灌漏卮</title><link>https://nifengxiao12.github.io/posts/lantianli/</link><pubDate>Wed, 16 Jul 2025 09:43:25 +0800</pubDate><guid>https://nifengxiao12.github.io/posts/lantianli/</guid><description>&lt;h3 id="蓝天立事件截至2025年7月">蓝天立事件（截至2025年7月）&lt;/h3>
+&lt;p>“蓝天立事件”指的是广西壮族自治区党委副书记、自治区政府主席蓝天立于 2025 年 5 月被中央纪委国家监委立案查处的重大政治事件。&lt;/p>
+&lt;p>&lt;img alt="蓝天立图片" loading="lazy" src="https://nifengxiao12.github.io/posts/lantianli/lantianli.png">&lt;/p>
+&lt;hr>
+&lt;h4 id="-事件概述">🧭 事件概述&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>立案时间&lt;/strong>：2025年5月16日&lt;/li>
+&lt;li>&lt;strong>调查机构&lt;/strong>：中央纪委国家监委&lt;/li>
+&lt;li>&lt;strong>通报内容&lt;/strong>：涉嫌严重违纪违法，正在接受纪律审查和监察调查&lt;/li>
+&lt;li>&lt;strong>地方响应&lt;/strong>：广西自治区党委召开紧急常委扩大会，全区开展配套清理与整顿&lt;/li>
+&lt;/ul>
+&lt;p>来源：&lt;a href="https://zh.wikipedia.org/zh-hans/%E8%93%9D%E5%A4%A9%E7%AB%8B">Wikipedia - 蓝天立&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h4 id="-后续处置进展">🏛️ 后续处置进展&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>日期&lt;/th>
+&lt;th>措施&lt;/th>
+&lt;th>详情&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2025/05/16&lt;/td>
+&lt;td>官宣立案&lt;/td>
+&lt;td>中央纪委国家监委网站通报&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2025/05/29&lt;/td>
+&lt;td>自治区人大接受其辞职&lt;/td>
+&lt;td>同时罢免其自治区人大代表、全国人大代表职务&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2025/06&lt;/td>
+&lt;td>全国人大常委会终止其代表资格&lt;/td>
+&lt;td>按程序确认，完全解除公职身份&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>源：&lt;a href="https://china.caixin.com/2025-05-29/102325427.html">财新网&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h4 id="-牵涉人员">👥 牵涉人员&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>韦霄燕&lt;/strong>：蓝天立妻子，广西医科大学统战部原部长，传被同步调查&lt;/li>
+&lt;li>&lt;strong>蓝某弟&lt;/strong>：蓝天立胞弟，涉及资产问题&lt;/li>
+&lt;li>&lt;strong>陈刚&lt;/strong>：广西自治区党委书记，表态“确保政治生态稳定”&lt;/li>
+&lt;/ul>
+&lt;p>源：&lt;a href="https://finance.sina.com.cn/roll/2025-05-21/doc-inexicec6082448.shtml">新浪财经&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h4 id="-关联背景与整顿行动">🌍 关联背景与整顿行动&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>环境治理倒查十年&lt;/strong>：启动针对非法采矿与重金属污染的倒查机制&lt;/li>
+&lt;li>&lt;strong>可能涉及金属矿权贪腐链条&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>广西政坛动荡&lt;/strong>：与2025年同时被查的金湘军仕途有交集&lt;/li>
+&lt;/ul>
+&lt;p>源：&lt;a href="https://www.cna.com.tw/news/acn/202505210171.aspx">中央社&lt;/a> &lt;a href="https://m.mp.oeeee.com/a/BAAFRD0000202505161086977.html">南方都市报&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h4 id="-蓝天立简历回顾">🧾 蓝天立简历回顾&lt;/h4>
+&lt;ul>
+&lt;li>出生：1962年，广西河池人，壮族&lt;/li>
+&lt;li>学历：广西大学工程硕士&lt;/li>
+&lt;li>曾任：广西科技厅厅长、河池市委书记、自治区副主席、政协主席&lt;/li>
+&lt;li>主席任期：2020年10月起主持政府，2021年1月正式当选自治区主席&lt;/li>
+&lt;/ul>
+&lt;p>源：&lt;a href="https://shanghai.xinmin.cn/xmsq/2020/10/19/31827891.html">新民晚报&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h4 id="-事件分析与意义">⚖️ 事件分析与意义&lt;/h4>
+&lt;ol>
+&lt;li>&lt;strong>高压反腐常态化&lt;/strong>：蓝天立是中共二十大后第二位“任上落马”的省级“一把手”&lt;/li>
+&lt;li>&lt;strong>生态环保进入反腐主线&lt;/strong>：以“重金属污染”为抓手倒查产业腐败&lt;/li>
+&lt;li>&lt;strong>地方治理架构整肃&lt;/strong>：广西高层人事或将重组，震慑效应显著&lt;/li>
+&lt;/ol></description></item></channel></rss>
